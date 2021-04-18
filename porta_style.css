@@ -1,0 +1,238 @@
+header{
+    background:url(A.png);  
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    height: 600px;
+    padding-top: 0px;
+    margin: none;
+    border-radius: 5px;
+    
+}
+.hey{
+    
+    
+    font-size:100px;
+    padding-left: 100px;
+    color: lightgray;
+    position: absolute;
+    top:0px;
+    right:530px;
+    transform: rotate(-10deg);
+}
+.im{
+
+    
+    font-size:50px;
+    padding-left: 0px;
+    padding-top: 0px;
+    color: black;
+    position: absolute;
+    top: 200px;
+    left: 400px;
+    
+
+
+}
+#parrahead{
+    font-size: 40px;
+    padding-left: 0px;
+    color: lightgray;
+    position: absolute;
+    top:400px;
+    left: 500px;
+    
+}
+
+
+.menu{
+
+    background: url(A.png);
+    height: 35px;
+    padding-top: 0px;
+    padding-bottom: opx;
+
+
+    
+    }
+.menu .div_menu li{
+    list-style: none;
+    display: inline;
+    margin: 0px;
+    background: url(A.png);
+    padding-right: 30px;
+    padding-bottom: 13px;
+    font-style:oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color:black;
+    float: right;
+    
+
+    
+    
+}
+.About{
+    color:black;
+    cursor: pointer;
+}
+
+.link{
+
+    color:black;
+}
+
+
+.menu .div_menu li :hover{
+
+    background:orange;
+    padding-right: 30px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    padding-top: 7px;
+    color:white;
+}
+
+.menu .subList li {
+
+    list-style: none;
+    background: lightgrays;
+
+}
+
+.desplegable{
+
+    list-style: none;
+    position: absolute;
+    
+    top:60px;
+    right: -200px;
+    padding:0px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    transition: all 0.5s;  
+}
+
+.mostrar{
+ 
+    right: 50px;
+    top: 60px;
+
+}
+.desplegable :hover{
+
+    background: black;
+    color: white;
+    padding: 10px;
+    
+}
+.bio{
+
+    color:black;
+    padding: 30px;
+
+}
+
+.skills{
+
+    color: black;
+    padding: 30px;
+    
+}
+.hobbies{
+
+    color: black;
+    padding: 30px;
+    
+    
+}
+
+
+
+.contenido{
+    
+    background:url(fondo_bod.png);
+    width: 100%;
+    min-height: 1035px;
+    padding-top: 5px;
+    float:left;
+    
+    
+}
+
+.contenido h1{
+    font-size: 50px;
+    color:white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 680px;
+    left: 500px;
+    padding: 10px;
+}
+.yo{
+    font-size: 35px;
+    color:white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 815px;
+    left: 500px;
+    padding: 10px;
+
+}
+.contenido p{
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    position: absolute;
+    top: 930px;
+    left:400px;
+    padding:0px;
+    
+
+}
+
+h3{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20x;
+}
+
+.ic1{
+
+    position: absolute;
+    top: 1200px;
+    left: 270px;
+}
+
+.ic2{
+
+    position: absolute;
+    top: 1200px;
+    left: 515px;
+}
+.ic3{
+
+    position: absolute;
+    top: 1200px;
+    left: 710px;
+}
+.ic4{
+
+    position: absolute;
+    top: 1200px;
+    left: 960px;
+}
+footer{
+float: left;
+background: url(A.png);
+color:black;
+
+}
+
+.clearfix{
+    clear:both;
+}
+
+body{
+
+    background: url(A.png);
+}
